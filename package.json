@@ -1,0 +1,22 @@
+{
+  "name": "reamd",
+  "version": "0.0.1",
+  "description": "Reamd is a development platform for building mobile and desktop web applications.",
+  "main": "gulpfiles.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reamd/reamd.git"
+  },
+  "keywords": [
+    "MVVM"
+  ],
+  "author": "reamd",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reamd/reamd/issues"
+  },
+  "homepage": "https://github.com/reamd/reamd#readme"
+}
