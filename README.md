@@ -1,3 +1,8 @@
 # Hi，welcome to my github👏
-- <a href="https://reamd.github.io" target="_blank">DJ的前端荒野</a>
-- <a href="https://www.cnblogs.com/reamd" target="_blank">博客园</a>
+
+- <a href="https://blog.djfos.fun/about/me/" target="_blank">关于我</a>
+
+- <a href="https://blog.djfos.fun/" target="_blank">我的博客</a>
+
+- 微信公众号
+![DJ荒野](./assets/wechat_pub_acct.jpg)
