@@ -11,5 +11,3 @@
 - :grin: <a href="https://blog.djfos.fun/about/me/" target="_blank">关于我</a>
 - :notebook: <a href="https://blog.djfos.fun/" target="_blank">我的博客</a>
 - 联系我 <a href="https://x.com/DJ_wilderness" target="_blank">![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/DJ_wilderness)</a>
-- 微信公众号
-![DJ荒野](./assets/wechat_pub_acct.jpg)
